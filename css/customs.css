@@ -7,7 +7,7 @@
 /* logo slider */
 /* Slider code from solodev.com */
 .slick-slide {
-    margin: 0px 20px;
+    margin: 0px 200px;
 }
 
 .slick-slide img {
@@ -124,7 +124,7 @@
 
 /* Hero Section */
 #hero .row{
-    width:100%;
+    width:75%;
 }
 /* End of hero Section */
 
@@ -133,7 +133,7 @@ img.about{
     max-width: 100%;
     width: 90%;
     border-radius: 200px 80px 80px 80px;
-    box-shadow: 0px 0px 15px 5px rgb(0 0 0 / 30%);
+    box-shadow: 0px 0px 15px 5px rgb(67 179 174 / 30%);
     z-index: 2;
 }
 
