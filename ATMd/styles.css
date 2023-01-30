@@ -1,0 +1,23 @@
+
+    BODY {	background: #87a3ed;
+    		border: 15px groove #3c30cf;
+    		border-radius: 15px;
+    	}
+    A:link {color: #80ff00}
+    A:visited {color: #9d009d}
+    H1 {font-size: 42pt; font-family: courier; font-weight: 550 }
+    H2 {font-size: 18pt; font-family: times; font-style: italic; font-weight: 450;}
+    H3 {font-size: 14pt; font-family: times; font-weight: 300; }
+   
+    
+    button {
+  background-color: #0c80f3;
+  border: 6px dashed #3c30cf;
+  border-radius: 10px;
+  width: 150px;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
