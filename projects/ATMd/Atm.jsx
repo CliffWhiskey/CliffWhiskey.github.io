@@ -84,5 +84,5 @@ const Atm = () => {
 };
 // ========================================
 ReactDOM.render(<Atm />, document.getElementById('root'));
-
+root.render(e(Atm));
 export default Atm;
