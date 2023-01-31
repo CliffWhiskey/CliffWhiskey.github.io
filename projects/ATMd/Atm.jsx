@@ -3,8 +3,6 @@ import { useState } from "react";
 import ReactDOM from 'react-dom';
 import "./styles.css";
 
-
-
 const ATMDeposit = ({ onChange, isDeposit, isValid }) => {
   const choice = ['Deposit', 'Cash Back'];
   console.log(`ATM isDeposit: ${isDeposit}`);
@@ -84,5 +82,4 @@ const Atm = () => {
 };
 // ========================================
 ReactDOM.render(<Atm />, document.getElementById('root'));
-root.render(e(Atm));
 export default Atm;
