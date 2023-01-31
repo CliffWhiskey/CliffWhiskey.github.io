@@ -7,7 +7,7 @@ import Atm from './Atm';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Atm/>
+    <./Atm />
   </React.StrictMode>
 );
 
